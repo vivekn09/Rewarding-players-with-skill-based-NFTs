@@ -6,6 +6,8 @@ The Skill-Based NFT Reward System is a blockchain-based solution that rewards pl
 
 ## Contract Address
 0x4699Cdeaa3603F7cA95A504F9dc533Bad23ea1FD
+![image](https://github.com/user-attachments/assets/f29e29f6-bf10-4dde-a13e-437224ca7344)
+
 ## Project Vision
 Our vision is to gamify the learning and skill-development process by leveraging blockchain technology and NFTs. The platform aims to motivate users to improve their skills, celebrate their achievements, and create a tangible record of their progress in the form of digital collectibles.
 
